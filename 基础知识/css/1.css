@@ -1,0 +1,6 @@
+div::after {
+    content: '';
+    width: 100%;
+    border-bottom: 1px solid #000;
+    transform: scaleY(0.5);
+}
