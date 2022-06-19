@@ -1,14 +1,5 @@
 <h1>博客&记录</h1>
 
-
-*  [基础知识](./基础知识/readme.md)
-*  [精读文章](./精品文章/readme.md)
-*  [设计模式](./设计模式/readme.md)
-*  [算法练习](./算法练习/readme.md)
-*  [源码解读](./源码解读/react/readme.md)
-*  [typescript](./typescript/readme.md)
-
-
 ## 优质资源
 * [印记中文-周刊](https://docschina.org/weekly/react/docs/)
 * [hellogithub](https://hellogithub.com/)
@@ -24,9 +15,7 @@
 * [前端工匠](https://github.com/yaocoding007/Blog-ljianshu)
 * [DevOps 知识图谱](https://tsejx.github.io/devops-guidebook/)
 * [one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge)
-
 ## 精品文章
-
 ### css
 * [16种方法实现水平居中垂直居中](https://juejin.cn/post/6844903474879004680)
 * [一劳永逸的搞定 flex 布局](https://juejin.cn/post/6844903474774147086)
@@ -82,3 +71,11 @@
 
 ### 工具类
 * [在线简历生成器](https://github.com/visiky/resume)
+
+## 自我总结
+*  [基础知识](./基础知识/readme.md)
+*  [精读文章](./精品文章/readme.md)
+*  [设计模式](./设计模式/readme.md)
+*  [算法练习](./算法练习/readme.md)
+*  [源码解读](./源码解读/react/readme.md)
+*  [typescript](./typescript/readme.md)
