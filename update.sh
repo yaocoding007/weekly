@@ -4,7 +4,7 @@
 
 pwd;
 
-cd-note;
+cd /Users/liluyao/Code/github.com/yaocoding007/weekly;
 
 pwd;
 
