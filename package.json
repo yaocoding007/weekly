@@ -1,0 +1,22 @@
+{
+  "name": "lly-note",
+  "version": "1.0.0",
+  "description": "<h1>博客&记录</h1>",
+  "main": "index.js",
+  "bin": {
+    "note-update": "./update.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaocoding007/weekly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaocoding007/weekly/issues"
+  },
+  "homepage": "https://github.com/yaocoding007/weekly#readme"
+}
