@@ -10,7 +10,7 @@ pwd;
 
 git add .
 git commit -m ${MSG}
-
-git push origin master
+    
+git push origin master -f
 
 echo "笔记更新完成～ 又是努力(滑水)的一天"
