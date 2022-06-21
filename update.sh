@@ -2,11 +2,17 @@
 
 [[ $1 ]] && MSG=$1 || MSG="update"
 
-pwd;
+echo -e "\033[33m update msg: $MSG  \033[0m"
+
+echo -e "\n"
+echo -e "\033[33m dirname: `pwd`  \033[0m"
+
+echo -e "\n"
 
 cd /Users/liluyao/Code/github.com/yaocoding007/weekly;
+echo -e "\n"
 
-pwd;
+echo -e "\033[33m dirname: `pwd`  \033[0m"
 
 git add .
 git commit -m "${MSG}"
