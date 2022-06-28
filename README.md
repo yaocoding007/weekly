@@ -3,6 +3,7 @@
 ## 优质资源
 * [印记中文-周刊](https://docschina.org/weekly/react/docs/)
 * [hellogithub](https://hellogithub.com/)
+* [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
 * [前端精读](https://github.com/ascoders/weekly)
 * [若川视野-源码共读](https://www.yuque.com/ruochuan12/notice/debug)
 * [算法通关之路](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
