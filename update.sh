@@ -1,3 +1,8 @@
+# 一行命令全局更新笔记内容
+# 使用之前需要将 笔记项目 npm link 到全局
+# 只需要在 命令行执行 note-update
+
+
 #!/bin/bash
 
 [[ $1 ]] && MSG=$1 || MSG="update"
